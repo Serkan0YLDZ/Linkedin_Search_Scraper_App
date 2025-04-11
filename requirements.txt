@@ -1,0 +1,6 @@
+dotenv
+numpy
+openpyxl
+pandas
+PyQt5
+selenium
